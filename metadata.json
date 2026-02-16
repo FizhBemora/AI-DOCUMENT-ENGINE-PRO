@@ -1,0 +1,5 @@
+{
+  "name": "AI Document Engine Pro",
+  "description": "A professional frontend for generating academic documents (DOCX & PDF) powered by AI, featuring a modern SaaS dashboard and a robust progress tracking system.",
+  "requestFramePermissions": []
+}
